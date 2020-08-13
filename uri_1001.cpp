@@ -1,9 +1,9 @@
-#include <iostream> // std::cin std::cout std::endl
+#include <iostream>
 
 int main() {
-    int nA, nB;
-    std::cin >> nA >> nB;
-    std::cout << "X = " << nA + nB << std::endl;
+    int A, B;
+    std::cin >> A >> B;
+    std::cout << "X = " << A + B << std::endl;
 
     return 0;
 }
