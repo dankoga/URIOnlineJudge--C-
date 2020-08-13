@@ -4,7 +4,10 @@
 int main() {
     int numberA, numberB;
     std::cin >> numberA >> numberB;
-    std::cout << "X = " << numberA + numberB << std::endl;
+
+    int numberSum;
+    numberSum = numberA + numberB;;
+    std::cout << "SOMA = " << numberSum << std::endl;
 
     return 0;
 }

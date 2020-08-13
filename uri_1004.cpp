@@ -4,7 +4,10 @@
 int main() {
     int numberA, numberB;
     std::cin >> numberA >> numberB;
-    std::cout << "X = " << numberA + numberB << std::endl;
+
+    int nProd;
+    numberProd = numberA * numberB;
+    std::cout << "PROD = " << numberProd << std::endl;
 
     return 0;
 }
