@@ -83,6 +83,8 @@ INDEX:
 1117 : ok
 1118 : ok
 1125 : ok : histogram
+1131 : ok
+1132 : ok : arithmetic progression
 
 
 
